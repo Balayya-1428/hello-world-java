@@ -37,6 +37,12 @@ public class HelloWorld {
     System.out.println("first line"); 
   System.out.println("third line"); 
       System.out.println("second line");
+    System.out.println("second line");
+    System.out.println("second line");
+    System.out.println("second line");
+    System.out.println("second line");
+    System.out.println("second line");
+    System.out.println("second line");
       
       
   
